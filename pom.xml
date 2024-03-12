@@ -15,7 +15,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-learning</name>
     <description>spring-boot-learning</description>
-<!--    <modules>-->
+    <modules>
+        <module>spring-boot-quick-start</module>
+    </modules>
+    <!--    <modules>-->
 <!--        <module>spring-boot-quickstart</module>-->
 <!--        <module>spring-boot-config</module>-->
 <!--    </modules>-->
