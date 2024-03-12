@@ -17,6 +17,7 @@
     <description>spring-boot-learning</description>
     <modules>
         <module>spring-boot-quick-start</module>
+        <module>spring-boot-config</module>
     </modules>
     <!--    <modules>-->
 <!--        <module>spring-boot-quickstart</module>-->
