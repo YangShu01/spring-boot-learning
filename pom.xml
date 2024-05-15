@@ -14,8 +14,12 @@
     <groupId>com.ys</groupId>
     <artifactId>spring-boot-learning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>spring-boot-learning</name>
     <description>spring-boot-learning</description>
+    <modules>
+        <module>spring-boot-quickstart</module>
+    </modules>
     <properties>
         <java.version>21</java.version>
     </properties>
